@@ -1,6 +1,7 @@
 ### Hi there, I am Harshada Chaudhari 👋
 
-- 🔭 I’m currently working in L&T Technology Services
+- 🙋🏻‍♀️ Looking for new opportunities in Munich, Germany due to relocation
+- 🔭 Worked in L&T Technology Services for 5+ years
 - 👩🏻‍💻 Skilled in JavaScript, HTML, CSS, React
 - 📺 Experience in developing OTT-Media apps
 - ⏯️ Worked with Shaka, HLS libraries
