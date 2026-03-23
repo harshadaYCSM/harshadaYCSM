@@ -6,6 +6,7 @@
 - 📺 Experience in developing Frontend, also OTT-Media apps
 - ⏯️ Worked with Shaka, HLS media player libraries
 - 🌱 I’m currently learning Java sailign towards becoming a Full-Stack
+- 🪄 Changing with times, coding with AI, imrpoving efficiency, maintaining quality
 - ⚡ Fun fact:I also love Playing Guitar,Crafting & Painting.😄 Do checkout my blog: [<img alt="CAS-blog" width="22px" src="https://0.gravatar.com/avatar/fded98f9cd31cc68acd5e2cecf874500?s=96&d=mm" />][colorfulartspace] <br>
 
 
